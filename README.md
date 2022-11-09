@@ -1,5 +1,5 @@
 # Image Processing with Artificial Intelligence 
-This task is application of AI on Image processing. The aim is to modify the lfw_people datasets in sklearn in different ways with different learners, and give a conclusion on the most accurate learner. The learner in the initial datasets was replaced with some Supervised and Unsupervised machine learning models to determine this. 
+This task is application of AI on Image processing using Python. The aim is to modify the lfw_people datasets in sklearn in different ways with different learners, and give a conclusion on the most accurate learner. The learner in the initial datasets was replaced with some Supervised and Unsupervised machine learning models to determine this. 
 
 ## Introduction
 Image processing is one of the key part of Artificial Intelligence. This can be applied in different ways ranging from identification of patterns in images, AI aided medical disgnosis, fraud detection, security and surveillance etc. 
