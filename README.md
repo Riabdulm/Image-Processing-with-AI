@@ -6,7 +6,7 @@ Image processing is one of the key part of Artificial Intelligence. This can be 
 
 
 ## Objective of the Project
-This project aim to fecth and modify the lfw_people datasets contained in sklearn library - https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_lfw_people.html by utilizing the following supervised and unsupervised machine learning models to modify the code in the faceRec.ipynb notebook - https://github.com/Riabdulm/Image-Processing-with-AI/blob/1fd6a7db945b5f7d7b0f2689a81925195a83f7cd/facerec.ipynb. 
+This project aim to fecth the lfw_people datasets contained in sklearn library by utilizing the following supervised and unsupervised machine learning models to modify the code in the faceRec.ipynb notebook - https://github.com/Riabdulm/Image-Processing-with-AI/blob/1fd6a7db945b5f7d7b0f2689a81925195a83f7cd/facerec.ipynb. 
 
 i. Random Forest Classifier
 
